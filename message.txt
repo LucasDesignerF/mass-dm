@@ -1,0 +1,17 @@
+👋 Olá, {user}!
+
+Bem-vindo(a) ao **{server}**.
+
+Percebemos que seu acesso completo ao servidor ainda não foi liberado, pois a etapa de registro ainda não foi concluída.
+
+Para desbloquear todos os canais, recursos e benefícios da comunidade, acesse o canal abaixo e finalize seu cadastro:
+
+📌 {register_channel}
+
+✅ Processo rápido
+✅ Liberação automática
+✅ Acesso completo ao servidor
+
+Caso você já tenha realizado o registro recentemente, pode ignorar esta mensagem.
+
+Esperamos você na comunidade! 🚀
